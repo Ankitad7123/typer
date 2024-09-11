@@ -1,0 +1,64 @@
+.nav{
+    width: 100vw;
+    height: 10vh;
+    display: flex;
+    background-color: rgb(245, 243, 243);
+
+    
+    flex-direction: row;
+    cursor: pointer;
+}
+.nav1{
+    display: flex;
+    flex-direction: column;
+   
+
+}
+.h4nav1{
+    position: absolute;
+    top: -21px;
+    left: 15.5px;
+    opacity: 0.6;
+
+}
+.nav2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 40vw;
+    font-family: cursive;
+    font-size: larger;
+    margin-left: 70px;
+    color:rgb(44, 60, 63);
+    color: grey;
+   
+
+}
+.nav3{
+
+    display: flex;
+    flex-direction: row;
+   margin-left: 410px;
+   
+}
+.btn{
+    width: 6vw;
+    height: 6vh;
+    margin-top: 15px;
+    font-family: cursive;
+    font-size: larger;
+    margin-left: 70px;
+    color:rgb(44, 60, 63);
+   
+}
+img{
+    height: 8vh;
+    margin: 15px;
+    margin-bottom: 10px;
+    mix-blend-mode: darken;
+}
+link{
+    text-decoration: none;
+    color: black;
+}

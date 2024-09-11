@@ -1,0 +1,170 @@
+.pf1{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 410px;
+    top: 110px;
+    background-color: white;
+    border-radius: 15px;
+    img{
+        width: 35vw;
+        height: 35vh;
+        border-radius: 30px;
+        
+    }
+    .intU{
+        position: absolute;
+        width: 45vw;
+        top: 120px;
+        left: -89px;
+        border-radius: 30px;
+        border: 0.4px solid black;
+        background-color:white;
+
+    }
+    .simg{
+        width: 45px;
+        height: 40px;
+        position: absolute;
+        top: 155.6px;
+        left: -50px;
+    }
+    button{
+        position: absolute;
+        left: 130px;
+        top: 280px;
+        background-color: none;
+        width: 95px;
+
+    }
+
+}
+
+
+
+
+  
+   
+    .graphs1{
+        position: relative;
+       left: 70px;
+        top: 560px;
+        width: 50%;
+        height: 100%;
+        background-color:  rgb(119, 143, 159);
+        color: black;
+        box-shadow: 5px 5px 10px grey;
+        border-radius: 10px;
+        padding: 40px;
+        border: 2px solid black;
+        z-index: 3;
+
+      
+     
+ 
+
+       
+
+    }
+    .graphs2{
+        position: relative;
+ left: 656px;
+        top: 280px;
+        width:50%;
+        height: 370px;
+        background-color: rgb(119, 143, 159);
+        color: black;
+        box-shadow: 10px 10px 15px grey;
+        border: 2px solid black;
+        border-radius: 10px;
+        justify-content: center;
+        align-items: center;
+      
+    
+       
+
+       
+
+    }
+    .graphs3{
+        position: relative;
+       left: 20px;
+       top: 250px;
+       width: 50%;
+       height: 260px;
+       background-color: rgb(119, 143, 159);
+       color: black;
+       box-shadow: 5px 5px 10px grey;
+       border-radius: 10px;
+       padding: 40px;
+        margin: 50px;
+        border: 2px solid black;
+        z-index: 3;
+
+       
+
+    }
+    .graphs4{
+        position: relative;
+       left: 630px;
+        top: 0px;
+        width: 40%;
+        height: 60%;
+        background-color: rgb(119, 143, 159);
+        color: black;
+        box-shadow: 10px 10px 10px rgb(7, 7, 7);
+        border-radius: 10px;
+        padding: 40px;
+        margin: 50px;
+        border: 1px solid black;
+     
+
+       
+
+    }
+
+    .graphs{
+   margin-top: 120px;
+   margin-left: -60px;
+   background-color: white;
+   margin-bottom:-30px ;
+
+
+    }
+
+.pfp{
+    width: 100vw;
+   
+    overflow: hidden;
+}
+
+.profile{
+    width: 30vw;
+  height: 30vh;
+ 
+  top: 450px;
+  padding: 15px;
+  left: 40%;
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px rgb(18, 18, 18);
+  background-color: lightgray;
+  border: 1px solid black;
+
+
+
+}
+
+.intU1{
+    position: absolute;
+    width: 23vw;
+    margin-top: -10px;
+    left: 60px;
+
+
+
+    border-radius: 30px;
+    border: 0.4px solid black;
+    background-color:white;
+
+
+}

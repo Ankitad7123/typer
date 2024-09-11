@@ -1,0 +1,126 @@
+.signup{
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    background-image: url('https://media4.giphy.com/media/2wh5K6dS9glKGCKVbK/giphy.gif?cid=790b7611tqmdexbae59rsv028fvg98e9ngxv3aq6jy4b5w6t&ep=v1_gifs_search&rid=giphy.gif&ct=g');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-position-y: 10px;
+    background-size: 30%;
+
+   
+}
+
+.f-lname{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 250px;
+    left: 330px ;
+    font-family: monospace;
+    font-size: larger;
+    transition: all ease-in-out 2s;
+    background-color: none;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+
+}
+.e-username{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 250px;
+    left: 330px ;
+    font-family: monospace;
+    font-size: larger;
+    background-color: none;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+
+}
+.password{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 250px;
+    left: 330px ;
+    font-family: monospace;
+    font-size: larger;
+    background-color: none;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+
+}
+input{
+    width: 200px;
+    text-align: center;
+    padding: 10px;
+    margin: 50px;
+    font-family: monospace;
+    font-size: large;
+    border-radius: 5px;
+    border: 3px solid rgb(36, 10, 10);
+
+
+}
+.btnnxt{
+    width: 100px;
+    text-align: center;
+    padding: 10px;
+    margin: 50px;
+    position: absolute;
+    top: 250px;
+    left: 330px ;
+    justify-content: center;
+    font-family: monospace;
+    font-size: larger;
+    border-radius: 5px;
+
+}
+.btnnxt{
+    position: absolute;
+    top: 360px;
+    left: 550px ;
+    text-align: center;
+    background-color: aqua;
+
+}
+.smiley {
+    width: 200px;
+    height: 100px;
+    top: 490px;
+    left: 555px ;
+   
+    border-radius: 50% / 40%;
+    position: relative;
+    overflow: hidden;
+}
+
+.mouth {
+    width: 200px;
+    height: 30px;
+    background-color: transparent;
+    /* border: 3px solid black; */
+    border: none;
+    border-radius: 50%;
+    /* border-top: none; */
+    
+    position: absolute;
+    bottom: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    /* background: linear-gradient(to right, rgb(204, 204, 228) 30%, white 0%); */
+    transition: all ease-in-out 2s;
+}
+
+.signNav{
+    position: absolute;
+    left: 600px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
